@@ -1,0 +1,1 @@
+echo "Bulding the Project : %date% : %time%"
